@@ -6,6 +6,7 @@ on:
         choice:
             type: choice
             description: apply or destroy
+            required: true
             options: 
             - apply
             - destroy
