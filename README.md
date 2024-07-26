@@ -1,5 +1,5 @@
 # github actions inputs with terraform-demo
-testing parameterized owrkflow with terraform
+This setup demonstrates an automated process for provisioning and tearing down resources with the ease of a single click.
 
 
 # How to run
